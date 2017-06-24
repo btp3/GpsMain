@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Iron_Man/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_b8fad83e87156e4768c1ca0e02bab23063007cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6dde8bd259422196873172750dd8417532377b7">
+        <dex dex="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f21d7b8336dc0cc445b609962dc586764b9f35c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iron_Man/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_5b5828bbfbab428f67a57cbb6cdf197019f44735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iron_Man/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c5ad0053c71b616248cc990d3eec4cba1c2352af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iron_Man/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_5e018d70129e651fb3eb73ad10ee19911a61701e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iron_Man/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_530583e7e0212964ac6aa20418c32d1f896589ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Iron_Man/Documents/Android Projects/GpsMain/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f41374b2a863804109c9be17d63d1570ef681f8c/classes.dex" />
+    </item>
+
+</items>
