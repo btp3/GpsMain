@@ -18,6 +18,10 @@ android {
         }
     }
 }
+repositories {
+    mavenCentral() // jcenter() works as well because it pulls from Maven Central
+    jcenter()
+}
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
@@ -31,5 +35,13 @@ dependencies {
     // JSON Parsing
     compile 'com.google.code.gson:gson:2.6.1'
     compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+
+    //QR Scanning
+    compile 'com.journeyapps:zxing-android-embedded:3.5.0'
+
+    // Glide
+    compile 'com.github.bumptech.glide:glide:4.0.0-RC1'
+    compile 'com.android.support:support-v4:25.3.1'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.0.0-RC1'
     testCompile 'junit:junit:4.12'
 }

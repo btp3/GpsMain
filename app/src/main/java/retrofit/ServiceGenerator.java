@@ -27,8 +27,7 @@ public class ServiceGenerator {
         return createService(serviceClass, null, null);
     }
 
-    public static <S> S createService(
-            Class<S> serviceClass, String username, String password) {
+    public static <S> S createService(Class<S> serviceClass, String username, String password) {
         if (!TextUtils.isEmpty(username)
                 && !TextUtils.isEmpty(password)) {
             String authToken = Credentials.basic(username, password);
@@ -38,8 +37,7 @@ public class ServiceGenerator {
         return createService(serviceClass, null, null);
     }
 
-    public static <S> S createService(
-            Class<S> serviceClass, final String authToken) {
+    public static <S> S createService(Class<S> serviceClass, final String authToken) {
         if (!TextUtils.isEmpty(authToken)) {
             AuthenticationInterceptor interceptor =
                     new AuthenticationInterceptor(authToken);
